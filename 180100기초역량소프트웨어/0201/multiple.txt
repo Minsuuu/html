@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<meta charset ="utf-8"
+		<script>
+		A=parseInt(prompt("입력",1);
+
+		if(A%7==0) {
+			document.write(A+"는 7의 배수입니다");
+		else {
+			document.write(A+"는 7의 배수가 아닙니다");
+		</script>
